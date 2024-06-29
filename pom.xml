@@ -16,6 +16,10 @@
 <properties>
 	<java.version>11</java.version>
 	<sonar.ws.timeout>300</sonar.ws.timeout>
+
+		<sonar.organization>engineeringdigest</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 </properties>
 <dependencies>
 	<dependency>
